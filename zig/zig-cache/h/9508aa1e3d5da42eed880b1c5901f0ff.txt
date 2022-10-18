@@ -1,0 +1,10 @@
+262 385620718093614206 1663437609744552100 fa15bce13524bf6f90f57c5f07111d42 C:\Users\Sifundo-Mhlungu\Downloads\Video\random\JS\wasm\zig\main.zig
+1582 12103423998643780 1663437154911050100 7b996742443eccf8e6f3fb444e6e2323 C:\Users\Sifundo-Mhlungu\Downloads\Video\random\JS\wasm\zig\zig-cache\o\517e9e386daf6ca8552755c0c450e85c\builtin.zig
+5391 1688849862397543 1644893264000000000 99c935b1fadc1095742d1049c16b1f73 C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\std.zig
+262 385620718093614206 1663437609744552100 fa15bce13524bf6f90f57c5f07111d42 C:\Users\Sifundo-Mhlungu\Downloads\Video\random\JS\wasm\zig\main.zig
+5391 1688849862397543 1644893264000000000 99c935b1fadc1095742d1049c16b1f73 C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\std.zig
+26206 1688849862397000 1644893264000000000 dbc4cb0419e16d4a31e572375da82b3e C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\builtin.zig
+21855 1688849862397541 1644893264000000000 afc30f6da0dcf13f4d3062af48b3ac43 C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\start.zig
+61008 1688849862397546 1644893264000000000 5b49cc22b6b033715b219b2e4c6df7ac C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\target.zig
+57659 1688849862397168 1644893264000000000 db42026211aa4121bafe18a7268b343c C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\math.zig
+33618 1688849862397253 1644893264000000000 46535ad7f6a05d9584884e7b8ee186ce C:\ProgramData\chocolatey\lib\zig\tools\zig-windows-x86_64-0.9.1\lib\std\meta.zig
